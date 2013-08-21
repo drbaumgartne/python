@@ -26,8 +26,3 @@ txt_again = open(file_again)
 
 # print the text again
 print txt_again.read()
-
-# close the file
-
-txt.close()
-txt_again.close()
